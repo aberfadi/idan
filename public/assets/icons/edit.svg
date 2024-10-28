@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 6.4 6.4"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <g
+       id="g8"
+       transform="matrix(1.0773734,0,0,1.0774045,-0.39629439,-0.09805896)"
+       style="stroke:#cccccc;stroke-width:0.389831;stroke-dasharray:none">
+      <path
+         id="rect1"
+         style="fill:none;stroke:#cccccc;stroke-width:0.389831;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="M 5.7113509,2.8049846 V 4.3532943 A 1.3775494,1.3775494 135 0 1 4.3338015,5.7308437 H 2.098778 A 1.3775494,1.3775494 45 0 1 0.7212286,4.3532943 V 2.1572561 A 1.3775494,1.3775494 135 0 1 2.098778,0.77970666 h 1.4820525"
+         transform="translate(0.14226836,-0.23195286)" />
+      <path
+         d="M 3.3043966,3.937763 2.6807709,3.3722595 c -5.213e-4,0.00541 -0.00138,0.01104 -0.00175,0.016347 -0.014952,0.2115116 -0.016981,0.4482497 0.028823,0.5887794 0.1562367,0.029974 0.3728861,0.00488 0.5650471,-0.032329 0.010207,-0.00198 0.020953,-0.0047 0.031501,-0.00729 z"
+         style="fill:#800080;stroke:#cccccc;stroke-width:0.389831;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path8" />
+      <path
+         d="M 5.5674845,1.7872479 C 5.0037602,1.8122455 4.6487344,1.5526616 4.5797164,0.90366252 L 3.0577988,2.582002 C 2.8802275,2.7778239 2.704495,3.1286024 2.6807739,3.3722563 L 3.3043995,3.9377599 C 3.5437457,3.878798 3.8656793,3.6639639 4.0395319,3.4722429 Z"
+         style="fill:none;stroke:#cccccc;stroke-width:0.389831;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path7" />
+      <path
+         d="M 5.7209542,0.63133424 A 0.66272708,0.82843825 42.201727 0 0 4.6736525,0.80007173 L 4.5797138,0.90366582 C 4.6487348,1.5526617 5.0037606,1.8122456 5.567482,1.7872512 l 0.087907,-0.096942 a 0.66272708,0.82843825 42.201727 0 0 0.065565,-1.05897496 z"
+         style="fill:none;stroke:#cccccc;stroke-width:0.389831;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="path6" />
+    </g>
+  </g>
+</svg>
